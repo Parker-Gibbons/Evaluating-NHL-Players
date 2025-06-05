@@ -4,6 +4,7 @@ STAT 306 Topics in Statistics: Multivariate Sports Analytics - Project #3
 Quantifying the Contribution of NHL Player Positions to Team Performance and How it affects Roster Construction
 
 Kenyon College
+
 Will Gibbs and Parker Gibbons 
 
 
